@@ -1,0 +1,49 @@
+#1046a9
+
+#2d7aeb
+
+white and black or grey 
+
+------------
+
+
+#dfe1de
+
+#070a4d
+
+#161f84
+
+-----------
+
+#4e71d3
+
+#303779
+#d7dcdc
+
+--------
+
+Color	
+#1046a9
+#fae22a	
+#dddddd	
+#f57319	
+#f10fb1
+--------
+
+#9ac7ef
+#f9f9fb
+
+
+-- th ---
+
+Color scheme 1:
+
+Primary color: #1046a9
+Secondary color: #2d7aeb
+Background color: #dfe1de
+Accent color 1: #070a4d
+Accent color 2: #161f84
+Accent color 3: #f57319
+
+
+
