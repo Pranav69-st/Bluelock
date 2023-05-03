@@ -41,7 +41,7 @@ Designed an anime-themed dashboard using Power BI to visualize the insights in a
 ## Conclusion
 Analysis showed that accroding to different parameters I found top players satisyting the followign . I hope that our findings will be useful to cricket teams and coaches in making informed decisions.
 
-##Dependencies
+## Dependencies
 To run this project, you will need the following dependencies:
 
 Python 3.x
