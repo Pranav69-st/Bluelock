@@ -29,16 +29,16 @@
 ## Bluelock - Cricket Player Performance Analysis Project
 This project aimed to analyze cricket player performance based on their role and identify key metrics for success.
 
-##Dataset
+## Dataset
 Scraped cricket match data from ESPN using JavaScript and stored it in a CSV file. The data included player name, role, batting and bowling statistics, and match details.
 
-##Preprocessing
+## Preprocessing
 Used Python and Power BI to preprocess the data. The preprocessing included removing duplicates, filling missing values, and transforming the data to ensure consistency.
 
-##Dashboard
+## Dashboard
 Designed an anime-themed dashboard using Power BI to visualize the insights in a more interactive and engaging way. The dashboard included separate tabs for power hitters, middle-order batsmen, finishers, all-rounders, and fast bowlers. Each tab showed the key metrics for success, such as high strike rate for power hitters and finishers, batting average for middle-order batsmen, good batting and bowling averages for all-rounders, and a low bowling average for fast bowlers. The player stats were shown as a tooltip when hovered over the player name.
 
-##Conclusion
+## Conclusion
 Analysis showed that accroding to different parameters I found top players satisyting the followign . I hope that our findings will be useful to cricket teams and coaches in making informed decisions.
 
 ##Dependencies
