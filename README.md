@@ -53,7 +53,7 @@ Run the JavaScript file to scrape data from ESPN
 Preprocess the data using Python and Power BI
 Open the Power BI file to view the dashboard
 Future Work
-In the future, we plan to expand our analysis to include more cricket matches and identify player trends in different leagues. We also plan to improve the preprocessing and visualization process to make it more efficient.
+In the future, we plan to expand our analysis to include more cricket matches and identify player trends in different leagues. I also plan to improve the preprocessing and visualization process to make it more efficient.
 
 
 Contact Information
